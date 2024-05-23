@@ -1,0 +1,6 @@
+{
+    "name": "eraosa/rechart-dashboard-widget",
+    "description": "A WordPress plugin to add a Dashboard Widget using ReactJS and WP REST API.",
+    "type": "wordpress-plugin",
+    "require": {}
+}

@@ -1,0 +1,23 @@
+{
+    "name": "rechart-dashboard-widget",
+    "version": "1.0.0",
+    "description": "A WordPress plugin to add a Dashboard Widget using ReactJS and WP REST API.",
+    "main": "index.js",
+    "scripts": {
+      "start": "webpack --watch",
+      "build": "webpack --mode production"
+    },
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "recharts": "^2.1.9"
+    },
+    "devDependencies": {
+      "webpack": "^5.24.2",
+      "webpack-cli": "^4.5.0",
+      "babel-loader": "^8.2.2",
+      "@babel/core": "^7.12.10",
+      "@babel/preset-react": "^7.12.10"
+    }
+  }
+  
